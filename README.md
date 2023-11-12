@@ -9,15 +9,15 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **Rob
 
 ## 💞 Collaboration
 
-I'm open to collaborating on a wide range of projects related to my areas of interest. Feel free to reach out if you have exciting projects or ideas to work on together.
+I'm open to collaborating on a **wide range of projects** related to my areas of interest. Feel free to reach out if you have exciting projects or ideas to work on together.
 
 ## 📫 Contact Me
 
-You can reach out to me through GitHub by [following me](https://github.com/fectec) and sending me a direct message.
+You can reach out to me through **GitHub** by [following me](https://github.com/fectec) and sending me a **direct message**.
+
+Feel free to explore my **repositories**. If you have any questions or ideas, don't hesitate to get in touch. *Let's build something great together!*
 
 ![Demo](https://media.tenor.com/V50_qmmw96QAAAAd/cat-head-bang.gif)
-
-Feel free to explore my repositories and check out the projects I've been working on. If you have any questions or ideas, don't hesitate to get in touch. Let's build something great together!
 
 <!---
 fectec/fectec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
