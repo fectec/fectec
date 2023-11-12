@@ -16,7 +16,7 @@ I'm open to collaborating on a wide range of projects related to my areas of int
 You can reach out to me through GitHub by [following me](https://github.com/fectec) and sending me a direct message.
 
 <img src="[url_of_your_gif](https://media.tenor.com/ShqRkUv63pAAAAAd/cat-vibing-vibing-cat.gif)
-)" alt="50" width="50">
+)" alt="demo" width="50">
 
 Feel free to explore my repositories and check out the projects I've been working on. If you have any questions or ideas, don't hesitate to get in touch. Let's build something great together!
 
