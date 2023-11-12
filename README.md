@@ -1,4 +1,4 @@
-# Hi, I'm [Your Username]
+# Hi, I'm Juan!
 
 👋 Welcome to my GitHub profile! I'm a passionate developer with interests in Robotics, Computer Vision, and Back End Development. Currently, I'm learning about Responsive Web Design and ROS 2 to broaden my skills.
 
