@@ -2,10 +2,10 @@
 
 👋 Welcome to my GitHub profile! I'm a passionate developer with interests in Robotics, Computer Vision, and Back End Development. Currently, I'm learning about Responsive Web Design and ROS 2 to broaden my skills.
 
-## 🌱 What I'm Learning
+## 🌱 What I'm Currently Learning
 
-- Responsive Web Design
-- ROS 2 (Robot Operating System 2)
+- Responsive Web Design.
+- ROS 2 (Robot Operating System 2).
 
 ## 💞 Collaboration
 
