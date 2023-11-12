@@ -1,11 +1,11 @@
 # Hi, I'm Juan!
 
-👋 Welcome to my GitHub profile! I'm a passionate developer with interests in Robotics, Computer Vision, and Back End Development. Currently, I'm learning about Responsive Web Design and ROS 2 to broaden my skills.
+👋 Welcome to my GitHub profile! I'm a passionate developer with interests in **Robotics**, **Computer Vision**, and **Back End Development**. 
 
 ## 🌱 What I'm Currently Learning
 
-- Responsive Web Design.
-- ROS 2 (Robot Operating System 2).
+- *Responsive Web Design*.
+- *ROS 2 (Robot Operating System 2)*.
 
 ## 💞 Collaboration
 
@@ -15,9 +15,8 @@ I'm open to collaborating on a wide range of projects related to my areas of int
 
 You can reach out to me through GitHub by [following me](https://github.com/fectec) and sending me a direct message.
 
-## Demo
-
-![Demo](https://media.tenor.com/ShqRkUv63pAAAAAd/cat-vibing-vibing-cat.gif)
+<img src="[url_of_your_gif](https://media.tenor.com/ShqRkUv63pAAAAAd/cat-vibing-vibing-cat.gif)
+)" alt="300" width="300">
 
 Feel free to explore my repositories and check out the projects I've been working on. If you have any questions or ideas, don't hesitate to get in touch. Let's build something great together!
 
