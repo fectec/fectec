@@ -17,7 +17,7 @@ You can reach out to me through **GitHub** by [following me](https://github.com/
 
 ![Demo](https://media.tenor.com/CnP64S7lszwAAAAi/meme-cat-cat-meme.gif)
 
-Feel free to explore my **repositories**. If you have any questions or ideas, don't hesitate to get in touch. *Let's build something great together!*
+**Feel free to explore my repositories**. If you have any questions or ideas, don't hesitate to get in touch. *Let's build something great together!*
 
 <!---
 fectec/fectec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
