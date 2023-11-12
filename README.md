@@ -15,7 +15,7 @@ I'm open to collaborating on a **wide range of projects** related to my areas of
 
 You can reach out to me through **GitHub** by [following me](https://github.com/fectec) and sending me a **direct message**.
 
-![Demo](https://tenor.com/es-419/view/happy-cat-cat-kedy-mutlukedy-gif-5853214187617629569)
+![Demo](https://media.tenor.com/CnP64S7lszwAAAAi/meme-cat-cat-meme.gif)
 
 Feel free to explore my **repositories**. If you have any questions or ideas, don't hesitate to get in touch. *Let's build something great together!*
 
