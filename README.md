@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Juan!
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in **Robotics**, **Computer Vision**, and **Back End Development**. 
+Welcome to my GitHub profile! I'm a passionate developer with interests in **Embedded Systems**, **Robotics** and **Back End Development**. 
 
 ## 🌱 What I'm Currently Learning
 
-- *Responsive Web Design*.
 - *ROS 2 (Robot Operating System 2)*.
+- *VHDL*. 
+  *Responsive Web Design*.
 
 ## 💞 Collaboration
 
