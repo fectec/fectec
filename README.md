@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a developer with interest in **Embedded System
 ## 🌱 What I'm Currently Learning
 
 - *ROS 2 (Robot Operating System 2)*.
-- *VHDL*. 
-  *Responsive Web Design*.
+- *VHDL*.
+- *Responsive Web Design*.
 
 ## 💞 Collaboration
 
