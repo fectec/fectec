@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Juan!
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in **Embedded Systems**, **Robotics** and **Back End Development**. 
+Welcome to my GitHub profile! I'm a developer with interest in **Embedded Systems**, **Robotics** and **Back End Development**. I'm currently pursuing a *B.S. in Robotics and Digital Systems Engineering*.
 
 ## 🌱 What I'm Currently Learning
 
@@ -10,15 +10,15 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **Emb
 
 ## 💞 Collaboration
 
-I'm open to collaborating on a **wide range of projects** related to my areas of interest. Feel free to reach out if you have exciting projects or ideas to work on together.
+I'm open to collaborate on a **wide range of projects** related to my areas of interest. Feel free to reach out if you have exciting ideas to work on together.
 
 ## 📫 Contact Me
 
-You can reach out to me through **GitHub** by [following me](https://github.com/fectec) and sending me a **direct message**.
+You can contact me through **GitHub** by [following me](https://github.com/fectec) and sending me a direct message.
 
 ![Demo](https://media.tenor.com/CnP64S7lszwAAAAi/meme-cat-cat-meme.gif)
 
-**Feel free to explore my repositories**. If you have any questions or ideas, don't hesitate to get in touch. *Let's build something great together!*
+**Feel free to explore my repositories**. If you have any questions, don't hesitate to get in touch. *Let's build something great together!*
 
 <!---
 fectec/fectec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
