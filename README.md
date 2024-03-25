@@ -14,13 +14,8 @@ I'm open to collaborate on a **wide range of projects** related to my areas of i
 
 ## 📫 Contact Me
 
-You can contact me through **GitHub** by [following me](https://github.com/fectec) and sending me a direct message.
+You can mail me at **fectec151@gmail.com**.
 
 ![Demo](https://media.tenor.com/CnP64S7lszwAAAAi/meme-cat-cat-meme.gif)
 
 **Feel free to explore my repositories**. If you have any questions, don't hesitate to get in touch. *Let's build something great together!*
-
-<!---
-fectec/fectec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
