@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a developer with interest in **Embedded System
 
 ## 💞 Collaboration
 
-I'm open to collaborate on a **wide range of projects** related to my areas of interest. Please reach out if you have exciting ideas to work on together.
+I'm open to collaborating on a **wide range of projects** related to my areas of interest. Please reach out if you have exciting ideas to work on together.
 
 ## 📫 Contact Me
 
