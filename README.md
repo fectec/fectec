@@ -16,11 +16,11 @@ I'm open to collaborating on a **wide range of projects** related to my areas of
 You can mail me at **fectec151@gmail.com**.
 
 <p align="center">
-  <img src="https://media.tenor.com/CnP64S7lszwAAAAi/meme-cat-cat-meme.gif" alt = "Jumping Cat" width = "200" height = "200"/>
+  <img src="https://media.tenor.com/CnP64S7lszwAAAAi/meme-cat-cat-meme.gif" alt = "Jumping Cat" width = "100" height = "100"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/fectec/fectec/assets/127822858/20e1216e-ff68-4748-9ef1-6ba718132a0c" alt = "Robot Cat" width = "200" height = "200"/>
+  <img src="https://github.com/fectec/fectec/assets/127822858/20e1216e-ff68-4748-9ef1-6ba718132a0c" alt = "Robot Cat" width = "150" height = "150"/>
 </p>
 
 **Feel free to explore my repositories**. If you have any questions, don't hesitate to get in touch. *Let's build something great together!*
