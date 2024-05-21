@@ -17,4 +17,8 @@ You can mail me at **fectec151@gmail.com**.
 
 ![Demo](https://media.tenor.com/CnP64S7lszwAAAAi/meme-cat-cat-meme.gif)
 
+<p align="center">
+  <img src="https://github.com/fectec/fectec/assets/127822858/20e1216e-ff68-4748-9ef1-6ba718132a0c" alt = "Robot Cat" width = "60" height = "60"/>
+</p>
+
 **Feel free to explore my repositories**. If you have any questions, don't hesitate to get in touch. *Let's build something great together!*
