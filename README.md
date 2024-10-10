@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm a developer with interest in **Embedded System
 
 ## 📫 Contact Me
 
-You can mail me at **fectec151@gmail.com**.
+You can mail me at *fectec151@gmail.com*. 
+**Please reach out if you have exciting ideas to work on together.**
 
 <p align="center">
   <img src="https://media.tenor.com/CnP64S7lszwAAAAi/meme-cat-cat-meme.gif" alt = "Jumping Cat" width = "100" height = "100"/>
@@ -13,5 +14,3 @@ You can mail me at **fectec151@gmail.com**.
 <p align="center">
   <img src="https://github.com/fectec/fectec/assets/127822858/20e1216e-ff68-4748-9ef1-6ba718132a0c" alt = "Robot Cat" width = "150" height = "150"/>
 </p>
-
-**Please reach out if you have exciting ideas to work on together.**
