@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a developer with interest in **Embedded System
 
 ## 📫 Contact Me
 
-You can mail me at *fectec151@gmail.com*. 
+You can mail me at fectec151@gmail.com. 
 **Please reach out if you have exciting ideas to work on together.**
 
 <p align="center">
