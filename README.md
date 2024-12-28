@@ -13,13 +13,3 @@
 <p align="center">
   <img src="https://media.tenor.com/CnP64S7lszwAAAAi/meme-cat-cat-meme.gif" alt="Jumping Cat" width="100" height="100"/>
 </p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-### 🧰 Pinned Repositories
-
-- [Robot Arm Project](https://github.com/your-github-username/robot-arm)
-- [Embedded Systems Tutorial](https://github.com/your-github-username/embedded-tutorial)
-- [My Personal Blog](https://github.com/your-github-username/blog)
