@@ -1,6 +1,6 @@
-# 👋 Hi, my name is Juan!
+# 👋 Welcome, my name is Juan!
 
-<p align="justify">Welcome! I'm a developer with an interest in <strong>Embedded Systems</strong> and <strong>Robotics</strong>. I'm currently pursuing a <i>B.S. in Robotics and Digital Systems Engineering</i>.</p>
+<p align="justify">I'm a developer with an interest in <strong>Embedded Systems</strong> and <strong>Robotics</strong>. I'm currently pursuing a <i>B.S. in Robotics and Digital Systems Engineering</i>.</p>
 
 <p align="justify">I like to think of myself as a full-on nerd, totally captivated by cool, nerdy things—especially COMPUTERS! 💻 (Seriously, humanity really outdid itself with that).</p>
 
