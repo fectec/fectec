@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <strong>Let's conquer the world together... one robot at a time! 💪🤖</strong>
+  <strong>Let's conquer the world together... one machine at a time! 💪🤖</strong>
   <br>
   <br>
   <img src="https://github.com/user-attachments/assets/bb674767-7df0-40a2-813a-b518386f7e0b" alt="Terminator Meme" width="250" height="150"/>
