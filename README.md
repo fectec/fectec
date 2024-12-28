@@ -17,5 +17,5 @@
 <p align="center">
   <strong>Let's conquer the world together... one robot at a time! 💪🤖</strong>
   <br />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExendncmZqeDIyeWdhdDI0YTBsZzQ3d2R2MG01MmltdjNzOGVnMmo4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IZY2SE2JmPgFG/giphy.gif" alt="Terminator Meme" width="500" height="300"/>
+  <img src="https://github.com/user-attachments/assets/bb674767-7df0-40a2-813a-b518386f7e0b" alt="Terminator Meme" width="250" height="150"/>
 </p>
