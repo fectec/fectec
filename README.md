@@ -1,16 +1,13 @@
-# 👋 Hi, I'm Juan!
+# 👋 Hi, my name is Juan!
 
-Welcome to my GitHub profile! I'm a developer with interest in **Embedded Systems** and **Robotics**. I'm currently pursuing a *B.S. in Robotics and Digital Systems Engineering*. I'm open to collaborating on a wide range of projects related to my areas of interest.
+<p align="justify">Welcome! I'm a developer with interest in <strong>Embedded Systems</strong> and <strong>Robotics</strong>. I'm currently pursuing a <i>B.S. in Robotics and Digital Systems Engineering</i>.</p>
 
-## 📫 Contact Me
+I like to think of myself as a full-on nerd, totally captivated by cool, nerdy things—especially COMPUTERS! (Seriously, humanity really outdid itself with that). 
 
-You can mail me at fectec151@gmail.com. 
-**Please reach out if you have exciting ideas to work on together.**
+![meme](https://github.com/user-attachments/assets/fc485b9f-8dcb-4363-bac2-03ba785214e5)
+
+I tend to fall down rabbit holes, constantly chasing the "how" behind everything, which is exactly why I find building robots so much fun. I’d love to nerd out with you and collaborate on some coding projects! Feel free to email me at fectec151@gmail.com 😄
 
 <p align="center">
   <img src="https://media.tenor.com/CnP64S7lszwAAAAi/meme-cat-cat-meme.gif" alt = "Jumping Cat" width = "100" height = "100"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/fectec/fectec/assets/127822858/20e1216e-ff68-4748-9ef1-6ba718132a0c" alt = "Robot Cat" width = "150" height = "150"/>
 </p>
