@@ -12,7 +12,15 @@
   <img src="https://github.com/user-attachments/assets/fc485b9f-8dcb-4363-bac2-03ba785214e5" alt="Computer Meme" width="350" height="250"/>
 </p>
 
-<p align="justify">I tend to fall down rabbit holes, constantly chasing the <i>"how"</i> behind everything, which is exactly why I find building robots so much fun. I’d love to nerd out with you and collaborate on some coding projects! Feel free to <strong>mail</strong> me at <a href="mailto:fectec151@gmail.com">fectec151@gmail.com</a> 😄</p>
+<p align="justify">I tend to fall down rabbit holes, constantly chasing the <i>"how"</i> behind everything, which is exactly why I find building robots so much fun. I’d love to nerd out with you and collaborate on some coding projects!</p>
+
+<p align="center">
+  <strong>Reach out and connect:</strong>
+  <br>
+  <a href="mailto:fectec151@gmail.com">
+    <img src="https://img.icons8.com/ios/452/mail.png" alt="Mail Icon" width="40" height="40"/>
+  </a>
+</p>
 
 <p align="center">
   <strong>Let's conquer the world together... one robot at a time! 💪🤖</strong>
@@ -20,5 +28,3 @@
   <br>
   <img src="https://github.com/user-attachments/assets/bb674767-7df0-40a2-813a-b518386f7e0b" alt="Terminator Meme" width="250" height="150"/>
 </p>
-
-
