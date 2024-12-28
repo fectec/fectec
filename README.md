@@ -17,6 +17,7 @@
 <p align="center">
   <strong>Reach out and connect:</strong>
   <br>
+  <br>
   <a href="mailto:fectec151@gmail.com">
     <img src="https://img.icons8.com/ios/452/mail.png" alt="Mail Icon" width="40" height="40"/>
   </a>
